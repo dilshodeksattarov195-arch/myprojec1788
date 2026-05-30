@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchvncrypt",
+        "uuid": 3082512,
+        "checksum": "2bqjl"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
